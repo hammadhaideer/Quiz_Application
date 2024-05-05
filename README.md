@@ -8,6 +8,3 @@ Next button: Users can proceed to the next question after answering each questio
 Completion message: Once all questions have been answered, users receive a completion message along with their final score.
 Usage
 To use the quiz application, simply open the index.html file in a web browser. The quiz will be displayed, and users can begin answering the questions by selecting their chosen option for each question. After answering all questions, users will receive a completion message along with their final score.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
